@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @KrystianSoltys
-- 👀 I’m interested in programming, especially C++ :d
-- 🌱 I’m currently learning OOP C++, QT and UE4
 
-- 📫 How to reach me:
-  -LinkedIn - https://www.linkedin.com/in/krystiansoltys
-  
+- Currently learning C++ / QT
+
+- How to reach me: <br>
+  <a src="mailto:krystian.soltys7@gmail.com"> krystian.soltys7@gmail.com </a> <br>
+  <a src="https://www.linkedin.com/in/krystiansoltys"> www.linkedin.com/in/krystiansoltys </a><br>
+ 
   
  Thanks for visiting, fell free to reach me out!
