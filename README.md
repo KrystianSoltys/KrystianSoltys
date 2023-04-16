@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrystianSoltys
 
-- Currently learning C++ / QT
+- Currently learning C++ / STM32 embedded programming
 
 - How to reach me: <br>
   <a src="mailto:krystian.soltys7@gmail.com"> krystian.soltys7@gmail.com </a> <br>
